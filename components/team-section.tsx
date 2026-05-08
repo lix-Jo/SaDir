@@ -35,6 +35,7 @@ const team = [
     nameAr: "المهند أحمد الشهري",
     role: "Minerals Resources & Rocks",
     roleAr: "ثروة معدنية",
+    image:"https://i.postimg.cc/SKYCg1t9/Almohannad-photo-for-web.jpg",
     initials: "AA",
     social: {
       linkedin: "https://www.linkedin.com/in/almuhannad-alshehri-027938353",
