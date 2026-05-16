@@ -188,7 +188,7 @@ Add your license here (MIT, Apache 2.0, etc.)
 
 ## 👤 Author
 
-Aurquartz Team:
+*Aurquartz Team
 *Joud Balkhair (Team Leader)
 *Layan Al-bogami
 *Fatima Al-Zahrani
