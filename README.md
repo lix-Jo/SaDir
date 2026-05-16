@@ -1,4 +1,4 @@
-# 🌍 SaDir — Geological Fieldwork Platform
+# 🌍 Aurquartz — Geological Fieldwork Platform
 
 A modern digital platform designed to streamline geological field data collection, organization, visualization, and export — all in one place.
 
@@ -10,7 +10,7 @@ A modern digital platform designed to streamline geological field data collectio
 
 ## 📌 Overview
 
-**SaDir** is a Geological Fieldwork Application built to replace the traditional workflow of using notebooks, scattered photos, GPS tools, and spreadsheets.
+**Aurquartz** is a Geological Fieldwork Application built to replace the traditional workflow of using notebooks, scattered photos, GPS tools, and spreadsheets.
 
 It provides geologists and Earth Science students with a **centralized, structured, and efficient digital field notebook**.
 
@@ -35,7 +35,7 @@ Geologists in the field often face challenges such as:
 
 ## 💡 Solution
 
-SaDir provides a complete and structured field workflow:
+Aurquartz provides a complete and structured field workflow:
 
 ```text
 Project → Locality → Sample → GPS → Photos → Notes → 
