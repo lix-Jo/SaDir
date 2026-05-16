@@ -188,13 +188,13 @@ Add your license here (MIT, Apache 2.0, etc.)
 
 ## 👤 Author
 
-*Aurquartz Team
-*Joud Balkhair (Team Leader)
-*Layan Al-bogami
-*Fatima Al-Zahrani
-*Almohand Al-Shehri 
-*Mohammed Alkhuobrani
-*Nawaf Almarwee
-King Abdulaziz University
+Aurquartz Team:
+ Joud Balkhair (Team Leader)
+- Layan Al-bogami
+- Fatima Al-Zahrani
+- Almohand Al-Shehri 
+- Mohammed Alkhuobrani
+- Nawaf Almarwee
+- King Abdulaziz University
 
 ---
