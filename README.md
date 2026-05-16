@@ -188,7 +188,13 @@ Add your license here (MIT, Apache 2.0, etc.)
 
 ## 👤 Author
 
-SaDir Team
+Aurquartz Team:
+Joud Balkhair (Team Leader)
+Layan Al-bogami
+Fatima Al-Zahrani
+Almohand Al-Shehri 
+Mohammed Alkhuobrani
+Naeaf Almarwee
 King Abdulaziz University
 
 ---
